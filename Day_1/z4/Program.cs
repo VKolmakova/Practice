@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Enter the first side: ");
+double a = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Enter the second side: ");
+double b = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Enter the third side: ");
+double c = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Enter the fourth side: ");
+double d = Convert.ToDouble(Console.ReadLine());
+double abcd = a + b + c + d;
+double p = abcd / 2;
+double s = ((a+b) / (Math.Abs(a - b)) * Math.Sqrt((p - a) * (p - b) * (p - a - c) * (p - a - d)));
+Console.WriteLine(s);
