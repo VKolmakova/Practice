@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z4\\z4.csproj": {}
+    "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z4\\z4.csproj": {}
   },
   "projects": {
-    "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z4\\z4.csproj": {
+    "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z4\\z4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z4\\z4.csproj",
+        "projectUniqueName": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z4\\z4.csproj",
         "projectName": "z4",
-        "projectPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z4\\z4.csproj",
+        "projectPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z4\\z4.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z4\\obj\\",
+        "outputPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z2.2\\z2.2.csproj",
+      "projectUniqueName": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z2.2\\z2.2.csproj",
       "projectName": "z2.2",
-      "projectPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z2.2\\z2.2.csproj",
+      "projectPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z2.2\\z2.2.csproj",
       "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-      "outputPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\ConsoleApp1\\z2.2\\obj\\",
+      "outputPath": "D:\\Valya\\collage\\3_kurs\\practice_c#\\1\\prac\\Day_1\\z2.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
