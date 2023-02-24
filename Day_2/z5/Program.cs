@@ -1,6 +1,6 @@
-﻿Console.Write("Enter A: ");
+﻿Console.Write("Enter A (A >= 1): ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Enter B (A < B): ");
+Console.Write("Enter B (A < B <= 10): ");
 double b = Convert.ToInt32(Console.ReadLine());
 double sum = 0;
 if(a> b)

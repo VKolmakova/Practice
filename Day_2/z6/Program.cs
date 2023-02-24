@@ -4,7 +4,7 @@ namespace ConsoleApplication1
 {
     class Class1
     {
-        static void F(double a, double b, double m)
+        static void F(double a, double b, int m)
         {
             Console.WriteLine("Введите х");
             double x = Convert.ToDouble(Console.ReadLine());
