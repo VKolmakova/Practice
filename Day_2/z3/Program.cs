@@ -1,13 +1,29 @@
 ﻿Console.Write("Enter passenger number from 1 to 12: ");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number == 4 || number == 5 || number == 6 || number == 7 || number == 8)
+switch (number)
 {
-    Console.Write("The passenger is dirty");
-} else if (number == 3 || number == 9 || number == 12)
-{
-    Console.Write("The passenger is scratched");
-}
-else
-{
-    Console.Write("Passenger is fine");
+    case (4):
+        Console.Write("The passenger is dirty");
+        break;
+    case (5):
+        Console.Write("The passenger is dirty");
+        break;
+    case (6):
+        Console.Write("The passenger is dirty");
+        break;
+    case (7):
+        Console.Write("The passenger is dirty");
+        break;
+    case (3):
+        Console.Write("The passenger is scratched");
+        break;
+    case (9):
+        Console.Write("The passenger is scratched");
+        break ;
+        case (12):
+        Console.Write("The passenger is scratched");
+        break;
+    default:
+        Console.Write("Passenger is fine");
+        break;
 }

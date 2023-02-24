@@ -6,8 +6,8 @@ double sum = 0;
 if(a> b)
 {
     Console.WriteLine("Error");
+    Console.ReadKey();
 }
-Console.ReadKey();
 for (double i = a; i <= b; i++)
 {
     sum = sum + Math.Pow(i, 2);
