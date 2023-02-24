@@ -9,5 +9,5 @@ if (x <= 5 && x >= 1) {
 if (x == p)
 {
     y=Math.Pow(Math.Sin(x), 2);
-    Console.Write($"Answerd: {y}");
+    Console.Write($"Answer: {y}");
 }
