@@ -7,7 +7,7 @@
         this.a = a;
         this.b = b;
     }
-    public double GetArithmeticMean() =>1 / Math.Pow(a, 2);
+    public double GetArithmeticMean() => 1 / Math.Pow(a, 2);
     public double CubSumOfNumbers() => Math.Pow((a+b),3);
 
 }

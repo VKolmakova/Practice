@@ -1,56 +1,85 @@
-﻿public class State
+﻿using System.Xml.Linq;
+
+public class State
 {
-  
+    public string typeOfGoverment;
     public string name;
     public string ruler;
-    public State ()
-    {
-        this.name= String.Empty;
-        Vvod();
-    }
-    void Vvod()
-    {
-        Console.WriteLine("Enter name of state: ");
-        name = Console.ReadLine();
-    }
-    public virtual string Vivod()
-    {
-        return "Name of state : "+ name;
-    }
+    public int yearOfFoundation;
+    public string capital;
+    public string Name { get { return name; } set { name = value; } }
+    public string Ruler { get { return ruler; } set { ruler = value; } }
+    public decimal YearOfFoundation { get { return yearOfFoundation; } set { yearOfFoundation = (int)value; } }
+    public string Capital { get { return capital; } set { capital = value; } }
+    public string TypeOfGoverment { get { return typeOfGoverment; } set { typeOfGoverment = value; } }
 
+    protected State(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment)
+    {
+        this. name = name;
+        this.ruler = ruler;
+        this.yearOfFoundation = yearOfFoundation;
+        this.capital = capital;
+        this.typeOfGoverment = typeOfGoverment;
+     
+    }
 }
 public class Republic : State
+
 {
-    string name;
-    string ruler;
-    public Republic():base()
+    public Republic(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
     {
-        this.name = String.Empty;
-        this.ruler = String.Empty;
-        Input();
     }
-    void Input()
+    public void GiveInformation()
     {
-        Console.WriteLine();
+        Console.WriteLine($"{name} is {typeOfGoverment}\nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital}");
     }
+
+
 }
+   
 public class Monarchy : State
 {
-    public string name;
-    public string ruler;
-    public Monarchy() : base()
+    public Monarchy(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
     {
-        this.name = String.Empty;
-        this.ruler = String.Empty;
+    }
+    public void GiveInformation()
+    {
+        Console.WriteLine($"{name} is {typeOfGoverment} \nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital} ");
     }
 }
 public class Kingdom : State
 {
-    public string name;
-    public string ruler;
-    public Kingdom() : base()
+    public Kingdom(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
     {
-        this.name = String.Empty;
-        this.ruler = String.Empty;
+    }
+    public void GiveInformation()
+    {
+        Console.WriteLine($"{name} is {typeOfGoverment} \nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital} ");
+    }
+}
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("1.Great Britan \n2.Belarus \n3.Denmark ");
+        Console.Write("Enter number: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+        switch (num)
+        {
+            case 1:
+                Monarchy monarchy = new Monarchy("Great Britain", "Charles Philip Arthur George", 1922, "London", "Monarchy");
+                monarchy.GiveInformation();
+                break;
+            case 2:
+                Republic republic = new Republic("Belarus", "Alexander Lukashenko", 1991, "Minsk", "Republic");
+                republic.GiveInformation();
+                break;
+            case 3:
+                Kingdom kingdom = new Kingdom("Denmark", "Margrethe Alexandrina Thorhildur Ingrid", 1523, "Copenhagen", "Kingdom");
+                kingdom.GiveInformation();
+                break;
+
+        }
+
     }
 }
