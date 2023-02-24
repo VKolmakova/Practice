@@ -6,7 +6,7 @@ namespace ConsoleApplication1
     {
         static void F(double a, double b, int m)
         {
-            Console.WriteLine("Введите х");
+            Console.WriteLine("Enter х: ");
             double x = Convert.ToDouble(Console.ReadLine());
             double h = (b - a) / m;
             for (double i = a; i <= b; i += 0.1)
