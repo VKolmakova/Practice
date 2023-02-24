@@ -1,12 +1,10 @@
-﻿
-
-public class State
+﻿public class State
 {
-    public string typeOfGoverment;
-    public string name;
-    public string ruler;
-    public int yearOfFoundation;
-    public string capital;
+    private string typeOfGoverment;
+    private string name;
+    private string ruler;
+    private int yearOfFoundation;
+    private string capital;
     public string Name { get { return name; } set { name = value; } }
     public string Ruler { get { return ruler; } set { ruler = value; } }
     public decimal YearOfFoundation { get { return yearOfFoundation; } set { yearOfFoundation = (int)value; } }
@@ -30,11 +28,11 @@ public class State
 public class Republic : State
 
 {
-    public Republic(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
+    public Republic(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation, capital, typeOfGoverment)
     {
     }
-  
 }
+    
    
 public class Monarchy : State
 {
@@ -65,6 +63,7 @@ class Program
             case 2:
                 Republic republic = new Republic("Belarus", "Alexander Lukashenko", 1991, "Minsk", "Republic");
                 republic.GiveInformation();
+                republic.ChangePresident();
                 break;
             case 3:
                 Kingdom kingdom = new Kingdom("Denmark", "Margrethe Alexandrina Thorhildur Ingrid", 1523, "Copenhagen", "Kingdom");
