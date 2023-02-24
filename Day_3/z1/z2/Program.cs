@@ -1,4 +1,4 @@
-﻿using System.Xml.Linq;
+﻿
 
 public class State
 {
@@ -22,6 +22,10 @@ public class State
         this.typeOfGoverment = typeOfGoverment;
      
     }
+    public void GiveInformation()
+    {
+        Console.WriteLine($"{name} is {typeOfGoverment}\nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital}");
+    }
 }
 public class Republic : State
 
@@ -29,12 +33,7 @@ public class Republic : State
     public Republic(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
     {
     }
-    public void GiveInformation()
-    {
-        Console.WriteLine($"{name} is {typeOfGoverment}\nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital}");
-    }
-
-
+  
 }
    
 public class Monarchy : State
@@ -42,19 +41,12 @@ public class Monarchy : State
     public Monarchy(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
     {
     }
-    public void GiveInformation()
-    {
-        Console.WriteLine($"{name} is {typeOfGoverment} \nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital} ");
-    }
+  
 }
 public class Kingdom : State
 {
     public Kingdom(string name, string ruler, int yearOfFoundation, string capital, string typeOfGoverment) : base(name, ruler, yearOfFoundation,capital,typeOfGoverment)
     {
-    }
-    public void GiveInformation()
-    {
-        Console.WriteLine($"{name} is {typeOfGoverment} \nThe ruler is {ruler} \nYear of foundation: {yearOfFoundation} \nCapital: {capital} ");
     }
 }
 class Program
