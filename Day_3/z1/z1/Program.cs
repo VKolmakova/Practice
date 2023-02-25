@@ -15,7 +15,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter а: ");
+        Console.Write("Enter FFFFFFFFFFFFFFFFFFFFFFFFFFFF: ");
         int numA = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter b: ");
         int numB = Convert.ToInt32(Console.ReadLine());
