@@ -1,0 +1,5 @@
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_3\z1\z3\obj\Debug\net6.0\z3.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_3\z1\z3\obj\Debug\net6.0\z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_3\z1\z3\obj\Debug\net6.0\z3.AssemblyInfoInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_3\z1\z3\obj\Debug\net6.0\z3.AssemblyInfo.cs
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_3\z1\z3\obj\Debug\net6.0\z3.csproj.CoreCompileInputs.cache
