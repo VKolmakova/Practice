@@ -1,97 +1,42 @@
-﻿class Fraction
+﻿class Fractions
 {
-    private int numerator;
-    private int denominator;
-    public double GetValue
+    public int firstNumerator;
+    public int firstDenominator;
+    public int secondNumerator;
+    public int secondDenominator;
+ 
+    public Fractions(int firstNumerator, int firstDenominator, int secondNumeration, int secondDenominator)
     {
-        get
-        {
-            if (denominator == 0) return double.NaN;
-            return (double)numerator / denominator;
-        }
+        this.firstNumerator = firstNumerator; //Numerator - числитель
+        this.firstDenominator = firstDenominator; // Denominator - знаменатель
+        this.secondNumerator = secondNumeration;
+        this.secondDenominator = secondDenominator;
     }
-    public Fraction()
+    public void Multiply(int firstNumerator, int secondNumerator,int firstDenominator, int secondDenominator)
     {
-        this.numerator = 0;
-        this.denominator = 1;
-    }
-    public Fraction(int numerator, int denominator)
-    {
-        if (denominator == 0) throw new DivideByZeroException("Делитель не может быть нулем");
-        this.numerator = numerator;
-        this.denominator = denominator;
-    }
-    public Fraction(string stringFraction)
-    {
-        string[] sf = stringFraction.Split('/');
-        if (sf.Length < 2) throw new Exception("Не удается преобразовать строку в дробь");
-        if (sf[1] == "0") throw new DivideByZeroException("Делитель не может быть нулем");
-        int nr, dr;
-        if (!int.TryParse(sf[0], out nr) || !int.TryParse(sf[1], out dr))
-            throw new Exception("Не удается преобразовать строку в дробь");
-        this.numerator = nr;
-        this.denominator = dr;
-    }
-
-    override public string ToString()
-    {
-        if (denominator == 0) return "NaN";
-        return string.Format("{0}/{1}", numerator, denominator);
-    }
-
-    static public Fraction operator +(Fraction f1, Fraction f2)
-    {
-        int df = f1.denominator;
-        int nf = f1.numerator + f2.numerator;
-        if (f1.denominator != f2.denominator)
-        {
-            df *= f2.denominator;
-            nf = f1.numerator * f2.denominator + f2.numerator * f1.denominator;
-        }
-        return new Fraction(nf, df);
-    }
-
-    static public Fraction operator -(Fraction f1, Fraction f2)
-    {
-        int df = f1.denominator;
-        int nf = f1.numerator - f2.numerator;
-        if (f1.denominator != f2.denominator)
-        {
-            df *= f2.denominator;
-            nf = f1.numerator * f2.denominator - f2.numerator * f1.denominator;
-        }
-        return new Fraction(nf, df);
-    }
-
-    static public Fraction operator *(Fraction f1, Fraction f2)
-    {
-        return new Fraction(f1.numerator * f2.numerator, f1.denominator * f2.denominator);
-    }
-
-    static public Fraction operator /(Fraction f1, Fraction f2)
-    {
-        if (f2.numerator == 0) throw new DivideByZeroException("Деление на 0");
-        return f1 * f2.FlipFraction;
-    }
-
-    public Fraction FlipFraction { get { return new Fraction(denominator, numerator); } }
-}
-
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        Fraction fr1 = new Fraction(1, 2);
-        Fraction fr2 = new Fraction("1/3");
-        Fraction fr3 = fr1 + fr2;
-        Console.WriteLine("{0} + {1} = {2} = {3}.", fr1, fr2, fr3, fr3.GetValue);
-        fr3 = fr1 - fr2;
-        Console.WriteLine("{0} - {1} = {2} = {3}.", fr1, fr2, fr3, fr3.GetValue);
-        fr3 = fr1 * fr2;
-        Console.WriteLine("{0} * {1} = {2} = {3}.", fr1, fr2, fr3, fr3.GetValue);
-        fr3 = fr1 / fr2;
-        Console.WriteLine("{0} / {1} = {2} = {3}.", fr1, fr2, fr3, fr3.GetValue);
-        Console.ReadLine();
+        int numenator = (firstNumerator * secondNumerator);
+        int denominator = (firstDenominator * secondDenominator);
+        Console.WriteLine($"Fraction = {numenator} / {denominator}");
     }
 }
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter first Numerator ");
+        int firstNumerator = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter first Denominator ");
+        int firstDenominator = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter second Numerator ");
+        int secondNumerator = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter second Denominator ");
+        int secondDenominator = Convert.ToInt32(Console.ReadLine());
+        Fractions tmp = new Fractions(firstNumerator, firstDenominator, secondNumerator, secondDenominator);
+        tmp.Multiply(firstNumerator, secondNumerator, firstDenominator, secondDenominator);
+       
+
+    }
+}
+
+
 
