@@ -1,4 +1,4 @@
-﻿int[] array = new int[] {1,2,3,4,5,6};
+﻿int[] array = new int[] {1,2,3,4,5,6,8};
 foreach (int i in array)
 {
     Console.Write($"{i} ");
