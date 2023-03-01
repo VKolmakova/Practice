@@ -1,8 +1,6 @@
 ﻿Console.Write($"Enter n: ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(Factorial(1+n) / Factorial(2+ n));
-
-int[] arr = new int[5];
+Console.WriteLine(Factorial(1 + n) / Factorial(2 + n));
 
 int Factorial(int num)
 {
