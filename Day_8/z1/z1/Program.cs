@@ -1,35 +1,16 @@
-﻿using System.Runtime.CompilerServices;
-using System.Text.RegularExpressions;
-
-//class Program
-//{
-//    static void Main(string[] args)
-//    {
-//        Console.WriteLine("Enter string : ");
-//        string date = new string(Console.ReadLine());
-//        FindData(date);
-
-//        static void FindData(String date)
-//        {
-//            string dataRegex = @"\d{2}.\d{2}.\d{4}";
-//            {
-//                if (Regex.IsMatch(date, dataRegex))
-//                {
-//                    Console.WriteLine("True");
-//                }
-//                else Console.WriteLine("False");
-//            }
-
-//        }
-//    }
-//}
-using System.Text.RegularExpressions;
-
-string pattern = @"([0-1][1-9]|2[0-9]|3[0-1]).(0[1-9]|1[0-2]).([1-2]+0+[0-1]+[0-9]|[1-2]+02+[0-3])";
+﻿using System.Text.RegularExpressions;
 string input = Console.ReadLine();
+Regex  regex = new Regex (@"([0-1][1-9]|2[0-9]|3[0-1]).(0[1-9]|1[0-2]).([1-2]+0+[0-1]+[0-9]|[1-2]+02+[0-3])");
+MatchCollection words = regex.Matches(input);
 
-if (Regex.IsMatch(input, pattern))
+if (words.Count > 0)
 {
-    Console.WriteLine("Работает");
+    foreach (Match word in words)
+    {
+        Console.WriteLine(word.Value);
+    }
 }
-else Console.WriteLine("Не работает!");
+else
+{
+    Console.WriteLine("No data");
+}
