@@ -1,4 +1,5 @@
 ﻿using z1;
+
 class Program
 {
 
@@ -13,7 +14,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("Information in the database: ");
         Console.WriteLine();
-        PrintNoteList((noteList));
+        PrintNoteList(SortByAlphabet(noteList));
 
         Console.WriteLine("Enter month: ");
         int month = Convert.ToInt32(Console.ReadLine());
@@ -62,7 +63,7 @@ class Program
         }
     }
 
-    public static List<Note> SortByPhoneNumber(List<Note> noteList)
+    public static List<Note> SortByAlphabet(List<Note> noteList)
     {
         noteList.Sort((x, y) => string.Compare(x.surnameAndFirstName, y.surnameAndFirstName));
         return noteList;
