@@ -1,4 +1,5 @@
 ﻿using z1;
+//Здесь объединены 1 и 2 задания сразу
 
 Locality[] localities = new Locality[]
 {
