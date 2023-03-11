@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Day_1",
+    "\\Day_11",
+    "\\Day_11\\z1",
+    "\\Day_11\\z1\\z1",
     "\\Day_12",
     "\\Day_12\\z1",
     "\\Day_12\\z1\\z1",
@@ -11,6 +13,6 @@
     "\\Day_9",
     "\\Day_9\\z1"
   ],
-  "SelectedNode": "\\Day_12",
+  "SelectedNode": "\\Day_12\\z1\\z1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
