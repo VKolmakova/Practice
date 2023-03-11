@@ -1,4 +1,4 @@
-﻿using z3;
+﻿using _3;
 using System.Threading;
 
 void ExponentiationInAddition(object obj)
@@ -20,10 +20,10 @@ void ExponentiationInMultiplication(double a, double n)
 {
     lock (locker)
     {
-        double exp = 0;
+        double exp = 1;
         for (double i = a; i < n; i++)
         {
-            exp *= Math.Pow(a, n);
+            exp += exp * Math.Pow(a, n);
         }
         Console.WriteLine(exp);
         Thread.Sleep(10);
@@ -43,9 +43,9 @@ Thread thread2 = new Thread(ExponentiationInAddition);
 thread1.Name = "Thread 2";
 
 Thread thread3 = new Thread(() => ExponentiationInMultiplication(a, n));
-thread1.Name = "Thread 1";
+thread3.Name = "Thread 1";
 Thread thread4 = new Thread(() => ExponentiationInMultiplication(a, n));
-thread1.Name = "Thread 2";
+thread4.Name = "Thread 2";
 
 thread1.Start(myparams);
 thread1.Join();
