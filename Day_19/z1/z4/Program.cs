@@ -105,26 +105,26 @@ class MusicCatalogue
         if (disk3 == 1)
         {
             Console.WriteLine("Песни на этом диске:");
-            Console.WriteLine("Ветер с моря дул - " + "Татьяна Буланова");
-            Console.WriteLine("Чистый - " + "Скриптонит");
-            Console.WriteLine("Половинка - " + "Танцы минус");
+            Console.WriteLine("Я больше не ревную - " + "Алла Пугачева");
+            Console.WriteLine("Держи меня соломинка - " + "Алла Пугачева");
+            Console.WriteLine("Мячик - " + "Владимир Кузьмин");
 
         }
         else if (disk3 == 2)
         {
             Console.WriteLine("Песни на этом диске:");
-            Console.WriteLine("Ясный мой свет - " + "Татьяна Буланова");
-            Console.WriteLine("Танцуй - " + "Скриптонит");
-            Console.WriteLine("Паранойа - " + "Танцы минус");
+            Console.WriteLine("Мышь - " + "Филипп Киркоров");
+            Console.WriteLine("Мало не много - " + "Татьяна Буланова");
+            Console.WriteLine("Солнышко моё, вставай - " + "Марина Хлебникова");
 
         }
         else if (disk3 == 3)
         {
 
             Console.WriteLine("Песни на этом диске:");
-            Console.WriteLine("Ненаглядный - " + "Татьяна Буланова");
-            Console.WriteLine("Baby - " + "Скриптонит");
-            Console.WriteLine("Подожди -  " + "Танцы минус");
+            Console.WriteLine("Мир в котором я живу - " + "Кристина Орбакайте");
+            Console.WriteLine("Я тебя не прощу никогда - " + "Полина Гагарина");
+            Console.WriteLine("Прованс -  " + "Ёлка");
 
         }
     }
