@@ -1,0 +1,15 @@
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\bin\Debug\net6.0\z4.exe
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\bin\Debug\net6.0\z4.deps.json
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\bin\Debug\net6.0\z4.runtimeconfig.json
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\bin\Debug\net6.0\z4.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\bin\Debug\net6.0\z4.pdb
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.AssemblyInfoInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.AssemblyInfo.cs
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.csproj.CoreCompileInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\refint\z4.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.pdb
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\z4.genruntimeconfig.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_21\z1\z4\obj\Debug\net6.0\ref\z4.dll
