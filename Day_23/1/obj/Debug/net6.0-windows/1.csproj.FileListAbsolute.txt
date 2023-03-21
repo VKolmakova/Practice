@@ -1,0 +1,51 @@
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\bin\Debug\net6.0-windows\1.exe
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\bin\Debug\net6.0-windows\1.deps.json
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\bin\Debug\net6.0-windows\1.runtimeconfig.json
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\bin\Debug\net6.0-windows\1.dll
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\bin\Debug\net6.0-windows\1.pdb
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.csproj.AssemblyReference.cache
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\_1.Form1.resources
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.csproj.GenerateResource.cache
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.AssemblyInfoInputs.cache
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.AssemblyInfo.cs
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.csproj.CoreCompileInputs.cache
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.dll
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\refint\1.dll
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.pdb
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\1.genruntimeconfig.cache
+D:\кпияп\практика по с#\Practica\Day23Prac22\1\obj\Debug\net6.0-windows\ref\1.dll
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\bin\Debug\net6.0-windows\1.exe
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\bin\Debug\net6.0-windows\1.deps.json
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\bin\Debug\net6.0-windows\1.runtimeconfig.json
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\bin\Debug\net6.0-windows\1.dll
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\bin\Debug\net6.0-windows\1.pdb
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\_1.Form1.resources
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.csproj.GenerateResource.cache
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.AssemblyInfoInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.AssemblyInfo.cs
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.csproj.CoreCompileInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.dll
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\refint\1.dll
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.pdb
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\1.genruntimeconfig.cache
+D:\Valya\collage\3_kurs\practice_c#\Day23\Day23Prac22\1\obj\Debug\net6.0-windows\ref\1.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\bin\Debug\net6.0-windows\1.exe
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\bin\Debug\net6.0-windows\1.deps.json
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\bin\Debug\net6.0-windows\1.runtimeconfig.json
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\bin\Debug\net6.0-windows\1.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\bin\Debug\net6.0-windows\1.pdb
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\_1.Form1.resources
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.csproj.GenerateResource.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.AssemblyInfoInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.AssemblyInfo.cs
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.csproj.CoreCompileInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\refint\1.dll
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.pdb
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\1.genruntimeconfig.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_23\1\obj\Debug\net6.0-windows\ref\1.dll
