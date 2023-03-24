@@ -1,4 +1,4 @@
-namespace _1
+namespace _1 
 {
     internal static class Program
     {
