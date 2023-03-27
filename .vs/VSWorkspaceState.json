@@ -1,17 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Day_17\\z1",
-    "\\Day_17\\z1\\z1",
-    "\\Day_21\\z1",
-    "\\Day_21\\z1\\z5",
-    "\\Day_22\\z1",
-    "\\Day_23",
-    "\\Day_23\\1",
     "\\Day_23\\2",
     "\\Day_23\\3",
-    "\\Day_23\\4"
+    "\\Day_23\\4",
+    "\\Day_24",
+    "\\Day_24\\z1"
   ],
-  "SelectedNode": "\\Day_23",
+  "SelectedNode": "\\Day_24",
   "PreviewInSolutionExplorer": false
 }

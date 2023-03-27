@@ -1,0 +1,34 @@
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\bin\Debug\5.exe.config
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\bin\Debug\5.exe
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\bin\Debug\5.pdb
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\5.csproj.AssemblyReference.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\_5.Form1.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\_5.Properties.Resources.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\5.csproj.GenerateResource.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\5.exe
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\5.pdb
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\bin\Debug\en-GB\5.resources.dll
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\_5.Form1.en-GB.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\en-GB\5.resources.dll
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\bin\Debug\ru-RU\5.resources.dll
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\_5.Form1.ru-RU.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\5\obj\Debug\ru-RU\5.resources.dll
+D:\Valya\Day25Prac24\Day25Prac24\5\bin\Debug\5.exe.config
+D:\Valya\Day25Prac24\Day25Prac24\5\bin\Debug\5.exe
+D:\Valya\Day25Prac24\Day25Prac24\5\bin\Debug\5.pdb
+D:\Valya\Day25Prac24\Day25Prac24\5\bin\Debug\en-GB\5.resources.dll
+D:\Valya\Day25Prac24\Day25Prac24\5\bin\Debug\ru-RU\5.resources.dll
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\5.csproj.AssemblyReference.cache
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\_5.Form1.resources
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\_5.Properties.Resources.resources
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\_5.Form1.en-GB.resources
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\_5.Form1.ru-RU.resources
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\5.csproj.GenerateResource.cache
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\en-GB\5.resources.dll
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\ru-RU\5.resources.dll
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\5.exe
+D:\Valya\Day25Prac24\Day25Prac24\5\obj\Debug\5.pdb

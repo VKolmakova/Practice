@@ -1,0 +1,32 @@
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\bin\Debug\3.exe.config
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\bin\Debug\3.exe
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\bin\Debug\3.pdb
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\UserControl1.g.cs
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3_MarkupCompile.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3_MarkupCompile.lref
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\UserControl1.baml
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.g.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\_3.Form1.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\_3.Properties.Resources.resources
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.exe
+D:\кпияп\практика по с#\Practica\Day25Prac24\3\obj\Debug\3.pdb
+D:\Valya\Day25Prac24\Day25Prac24\3\bin\Debug\3.exe.config
+D:\Valya\Day25Prac24\Day25Prac24\3\bin\Debug\3.exe
+D:\Valya\Day25Prac24\Day25Prac24\3\bin\Debug\3.pdb
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\UserControl1.g.cs
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3_MarkupCompile.cache
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3_MarkupCompile.lref
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\UserControl1.baml
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.g.resources
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\_3.Form1.resources
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\_3.Properties.Resources.resources
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.exe
+D:\Valya\Day25Prac24\Day25Prac24\3\obj\Debug\3.pdb
