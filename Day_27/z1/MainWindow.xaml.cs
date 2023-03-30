@@ -70,10 +70,10 @@ namespace z1
 
         private void PrintRecords(List<Record> records   )
         {
-            textBlockXMLFileBook.Text = "========Records========" + Environment.NewLine;
+            textBlockXMLFile.Text = "========Records========" + Environment.NewLine;
             foreach (var record in records)
             {
-                textBlockXMLFileBook.Text +=record.ToString();
+                textBlockXMLFile.Text +=record.ToString();
             }
         }
 
