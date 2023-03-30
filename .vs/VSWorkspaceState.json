@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Day_23",
     "\\Day_23\\1",
     "\\Day_23\\2",
     "\\Day_23\\3",
     "\\Day_23\\4",
-    "\\Day_24\\z1",
-    "\\Day_25",
-    "\\Day_25\\z1"
+    "\\Day_26"
   ],
-  "SelectedNode": "\\Day_23",
+  "SelectedNode": "\\Day_23\\1\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<records>
+	<record surname ="Deruga">
+		<dateOfBirth> 29012005</dateOfBirth>
+		<phoneNumber>37529484838</phoneNumber>
+	</record>
+	<record surname ="Belenitsa">
+		<dateOfBirth> 24012005</dateOfBirth>
+		<phoneNumber>3752923458</phoneNumber>
+	</record>
+	<record surname ="Tezik">
+		<dateOfBirth> 29012005</dateOfBirth>
+		<phoneNumber>375296468</phoneNumber>
+	</record>
+</records>

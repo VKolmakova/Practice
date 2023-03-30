@@ -1,0 +1,72 @@
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1_MarkupCompile.cache
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1_MarkupCompile.lref
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\bin\Debug\z1.exe.config
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\bin\Debug\z1.exe
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\bin\Debug\z1.pdb
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.g.resources
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.Properties.Resources.resources
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.exe
+C:\Users\HP\Desktop\Практика\Exercise 26 (Day27)\z1\obj\Debug\z1.pdb
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\bin\Debug\z1.exe.config
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\bin\Debug\z1.exe
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\bin\Debug\z1.pdb
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1_MarkupCompile.cache
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1_MarkupCompile.lref
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.g.resources
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.Properties.Resources.resources
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.exe
+C:\Users\HP\Desktop\Practica\Exercise 26 (Day27)\z1\obj\Debug\z1.pdb
+D:\Valya\collage\Exercise 26 (Day27)\z1\bin\Debug\z1.exe.config
+D:\Valya\collage\Exercise 26 (Day27)\z1\bin\Debug\z1.exe
+D:\Valya\collage\Exercise 26 (Day27)\z1\bin\Debug\z1.pdb
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\MainWindow.g.cs
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\App.g.cs
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1_MarkupCompile.cache
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1_MarkupCompile.lref
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\MainWindow.baml
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.g.resources
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.Properties.Resources.resources
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.GenerateResource.cache
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.exe
+D:\Valya\collage\Exercise 26 (Day27)\z1\obj\Debug\z1.pdb
+D:\Valya\collage\Day_27\z1\bin\Debug\z1.exe.config
+D:\Valya\collage\Day_27\z1\bin\Debug\z1.exe
+D:\Valya\collage\Day_27\z1\bin\Debug\z1.pdb
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\Day_27\z1\obj\Debug\MainWindow.g.cs
+D:\Valya\collage\Day_27\z1\obj\Debug\App.g.cs
+D:\Valya\collage\Day_27\z1\obj\Debug\z1_MarkupCompile.cache
+D:\Valya\collage\Day_27\z1\obj\Debug\z1_MarkupCompile.lref
+D:\Valya\collage\Day_27\z1\obj\Debug\MainWindow.baml
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.g.resources
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.Properties.Resources.resources
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.csproj.GenerateResource.cache
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.exe
+D:\Valya\collage\Day_27\z1\obj\Debug\z1.pdb
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\MainWindow.g.cs
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\App.g.cs
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\z1_MarkupCompile.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\z1_MarkupCompile.lref
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\z1.exe
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_27\z1\obj\Debug\z1.pdb
