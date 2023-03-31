@@ -1,0 +1,34 @@
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\bin\Debug\3.exe.config
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\bin\Debug\3.exe
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\bin\Debug\3.pdb
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\MainWindow.g.cs
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\App.g.cs
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3_MarkupCompile.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3_MarkupCompile.lref
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\MainWindow.baml
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.g.resources
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\_3.Properties.Resources.resources
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.exe
+D:\кпияп\практика по с#\Practica\Day29Prac28\3\obj\Debug\3.pdb
+D:\Valya\collage\Day29Prac28\3\bin\Debug\3.exe.config
+D:\Valya\collage\Day29Prac28\3\bin\Debug\3.exe
+D:\Valya\collage\Day29Prac28\3\bin\Debug\3.pdb
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\Day29Prac28\3\obj\Debug\MainWindow.g.cs
+D:\Valya\collage\Day29Prac28\3\obj\Debug\App.g.cs
+D:\Valya\collage\Day29Prac28\3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3_MarkupCompile.cache
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3_MarkupCompile.lref
+D:\Valya\collage\Day29Prac28\3\obj\Debug\MainWindow.baml
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.g.resources
+D:\Valya\collage\Day29Prac28\3\obj\Debug\_3.Properties.Resources.resources
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.exe
+D:\Valya\collage\Day29Prac28\3\obj\Debug\3.pdb

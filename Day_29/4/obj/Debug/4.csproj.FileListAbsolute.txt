@@ -1,0 +1,12 @@
+D:\кпияп\практика по с#\Practica\Day29Prac28\4\obj\Debug\4.csproj.AssemblyReference.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\4\obj\Debug\MainWindow.g.cs
+D:\кпияп\практика по с#\Practica\Day29Prac28\4\obj\Debug\App.g.cs
+D:\кпияп\практика по с#\Practica\Day29Prac28\4\obj\Debug\4_MarkupCompile.cache
+D:\кпияп\практика по с#\Practica\Day29Prac28\4\obj\Debug\4_MarkupCompile.lref
+D:\Valya\collage\Day29Prac28\4\obj\Debug\4.csproj.AssemblyReference.cache
+D:\Valya\collage\Day29Prac28\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\Day29Prac28\4\obj\Debug\MainWindow.g.cs
+D:\Valya\collage\Day29Prac28\4\obj\Debug\App.g.cs
+D:\Valya\collage\Day29Prac28\4\obj\Debug\4_MarkupCompile.cache
+D:\Valya\collage\Day29Prac28\4\obj\Debug\4_MarkupCompile.lref
