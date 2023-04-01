@@ -1,0 +1,11 @@
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\bin\Debug\3.exe.config
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\bin\Debug\3.exe
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\bin\Debug\3.pdb
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\z3.csproj.AssemblyReference.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\_3.Form1.resources
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\_3.Properties.Resources.resources
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\z3.csproj.GenerateResource.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\3.exe
+D:\Valya\collage\3_kurs\practice_c#\1\prac\Day_30\3\obj\Debug\3.pdb
